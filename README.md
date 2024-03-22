@@ -81,5 +81,5 @@ python main.py eval --run_folder True --content ./content/ --style ./style/
 ## Acknowledgment
 We thank the following repos providing helpful components/functions in our work.
 
-- [PAMA]([https://github.com/icoz69/CEC-CVPR2021](https://github.com/luoxuan-cs/PAMA))
+- [PAMA](https://github.com/icoz69/CEC-CVPR2021](https://github.com/luoxuan-cs/PAMA)
 - [SupCon](https://github.com/ivanpanshin/SupCon-Framework)
