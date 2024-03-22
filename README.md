@@ -34,9 +34,19 @@ conda env create -f newenv.yml
 
 ## Training scripts
 
+Stage 1:
  ```
-
+python train.py --config_name configs/train/train_supcon_resnet18_DSTOK_stage1.yml
+python swa.py --config_name configs/train/swa_supcon_resnet18_DSTOK_stage1.yml
   ```
+Stage 2:
+```
+python train.py --config_name configs/train/train_supcon_resnet18_DSTOK_stage2.yml
+python swa.py --config_name configs/train/swa_supcon_resnet18_DSTOK_stage2.yml
+```
+
+# Datasets
+
 
 
 
