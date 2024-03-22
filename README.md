@@ -44,6 +44,8 @@ python swa.py --config_name configs/swa_supcon_resnet18_DSTOK_stage1.yml
 Stage 2:
 ```
 python train.py --config_name configs/train_supcon_resnet18_DSTOK_stage2.yml
+  ```
+  ```
 python swa.py --config_name configs/swa_supcon_resnet18_DSTOK_stage2.yml
 ```
 
