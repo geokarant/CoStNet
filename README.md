@@ -30,9 +30,9 @@ conda env create -f newenv.yml
 ```
 
 
-## Learning module
+# Learning module
 
-# Training scripts
+## Training scripts
 
  ```
 
@@ -40,7 +40,7 @@ conda env create -f newenv.yml
 
 
 
-## PAMA Style transfer module
+# PAMA Style transfer module
 
 
 ## Checkpoints
