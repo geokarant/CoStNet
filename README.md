@@ -30,6 +30,15 @@ conda env create -f newenv.yml
 ```
 
 
+## Learning module
+
+## Training scripts
+
+ ```
+
+  ```
+
+
 
 ## PAMA Style transfer module
 
@@ -68,14 +77,6 @@ If you want to do a batch operation for all pictures under the folder at one tim
 ```python
 python main.py eval --run_folder True --content ./content/ --style ./style/
 ```
-
-## Learning module
-
-## Training scripts
-
- ```
-
-  ```
 
 
 ## Acknowledgment
