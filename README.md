@@ -84,3 +84,16 @@ We thank the following repos providing helpful components/functions in our work.
 
 - [PAMA](https://github.com/icoz69/CEC-CVPR2021](https://github.com/luoxuan-cs/PAMA)
 - [SupCon](https://github.com/ivanpanshin/SupCon-Framework)
+
+## If you find you find CoStNet useful, please also consider citing:
+
+```
+@inproceedings{luo2022progressive,
+  title={Progressive attentional manifold alignment for arbitrary style transfer},
+  author={Luo, Xuan and Han, Zhen and Yang, Linkang},
+  booktitle={Proceedings of the Asian Conference on Computer Vision},
+  pages={3206--3222},
+  year={2022}
+}
+```
+
