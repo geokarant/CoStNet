@@ -1,6 +1,6 @@
 # Detect-With-Style-A-Contrastive-Learning-Framework-For-Detecting-Computer-Generated-Images
 
-This is the official repository of the paper "Detect With Style: A Contrastive Learning Framework For Detecting Computer Generated Images" [[paper]]([https://arxiv.org/abs/2304.00426](https://www.mdpi.com/2078-2489/15/3/158)).
+This is the official repository of the paper "Detect With Style: A Contrastive Learning Framework For Detecting Computer Generated Images" [[paper]](https://www.mdpi.com/2078-2489/15/3/158).
 
 ```
 @article{karantaidis2024detect,
