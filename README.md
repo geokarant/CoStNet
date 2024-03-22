@@ -61,6 +61,8 @@ You should create and place your dataset under CoStNet/Learning module/data/phot
 
 # PAMA Style transfer module
 
+The style transfer module can operate independently and doesn't require mandatory execution. You can run solely the learning module.
+
 
 ## Checkpoints
 
