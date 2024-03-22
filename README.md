@@ -129,4 +129,4 @@ We thank the following repos providing helpful components/functions in our work.
   year={2022}
 }
 ```
-If you have any questions feel me to contant me directly at: gkarantai@csd.auth.gr
+If you have any questions feel free to contant me directly at: gkarantai@csd.auth.gr
