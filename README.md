@@ -21,14 +21,9 @@ The detection of computer-generated (CG) multimedia content has become of utmost
 
 
 
-
-
-## Code will be soon available!
-
-
 ## Requirements
 
-Create the appropriate environmnet using the following:
+Create a virtual environmnet using the following:
 
 ```python
 conda env create -f newenv.yml
@@ -76,9 +71,11 @@ python main.py eval --run_folder True --content ./content/ --style ./style/
 
 ## Learning module
 
+## Training scripts
 
+ ```
 
-
+  ```
 
 
 ## Acknowledgment
