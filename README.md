@@ -56,7 +56,7 @@ You should create and place your dataset under CoStNet/Learning module/data/phot
             CGG/
             Real/
 
-  In case you want to run your own dataset using a different structure, you can modify the tools/datasets.py file adding your own Class for you dataset and add your datast to 'DATASETS' dict inside 'tools/datasets.py'. Pay attention to dollow the same augmentation logic:
+  In case you want to run your own dataset using a different structure, you can modify the tools/datasets.py file adding your own Class for you dataset and add your datast to 'DATASETS' dict inside tools/datasets.py. Pay attention to follow the same augmentation logic:
 ```
         if self.second_stage:
             image = self.transform(image=image)['image']
