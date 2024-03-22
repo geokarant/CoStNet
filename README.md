@@ -46,7 +46,7 @@ python swa.py --config_name configs/swa_supcon_resnet18_DSTOK_stage2.yml
 ```
 
 # Datasets
-You should create and place your dataset under CoStNet/Learning module/data/photos/ folder. Your dataset_name folder should have the following structure:
+You should create and place your dataset under CoStNet/Learning module/data/photos/ folder. Your dataset under the photos/ folder should have the following structure:
 
     photos/
         test/
