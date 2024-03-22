@@ -1,6 +1,6 @@
 model:
   backbone: resnet18
-  ckpt_pretrained: weights/supcon_first_stage_cifar10/swa
+  ckpt_pretrained: weights/supcon_first_stage_DSTOK/swa
   num_classes: 2
 
 train:
